@@ -1,1 +1,1 @@
-my essential .config files.
+dot files
